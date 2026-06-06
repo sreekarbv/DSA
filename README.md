@@ -8,22 +8,6 @@ A compact, opinionated workspace for solving Data Structures & Algorithms proble
 - Keep implementations small and easy to read.
 - Map learning progress to a focused roadmap so you can follow a study plan.
 
-## Quick start
-
-1. Install Go (1.18+ recommended).
-2. Create a module at the repo root when needed:
-
-```sh
-cd /Users/sreekarbv/repo/DSA
-go mod init github.com/<your-username>/DSA
-```
-
-3. Run a single file (if it has a `main`):
-
-```sh
-go run ./path/to/package
-```
-
 ## Repository layout and conventions
 
 - Organize problems by topic (folder per topic). Example folders:
